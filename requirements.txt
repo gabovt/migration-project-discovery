@@ -3,3 +3,6 @@ pandas
 ydata-profiling
 IProgress
 ipywidgets
+sqlalchemy
+pymysql
+dotenv
